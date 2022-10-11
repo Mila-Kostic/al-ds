@@ -1,4 +1,4 @@
-// example for theory 01_big_O.js
+// example for theory 01_big_O.js - increased way
 
 //Program to display the sum of natural numbers
 let sum = 0;
