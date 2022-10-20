@@ -1,5 +1,5 @@
 // Big-O of Arrays:
-
+//Method type
 // Insertion — It depends. Insertion at the end is O(1). But insertion at the beginning is o(n)
 // Removal — It depends. Removal at the end is O(1). But in between or at the beginning is o(n)
 // Access — O(1)
